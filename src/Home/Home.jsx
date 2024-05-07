@@ -19,7 +19,6 @@ export default function Home() {
                     <h1 className='text-center pb-10 pt-2 text-neutral-400'>We'd love to hear from you</h1>
                 </div>
         </div>
-
     </div>
   )
 }
