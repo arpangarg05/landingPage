@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <div className='fixed w-svw' style={{
-            backgroundImage: `url('src/assets/Logo.png')`,
+            backgroundImage: `url('https://i.ibb.co/C6qc7N8/Logo.png')`,
             opacity: .08,
             width:'100vw',
             height:'100vh',
