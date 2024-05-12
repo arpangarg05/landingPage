@@ -4,6 +4,7 @@ import Footer from './Footer/Footer'
 import Tech from './Services/Tech'
 import './App.css'
 import Skills from './Technologies/TechStack'
+import Contact from './Contact/Contact'
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Home></Home>
       <Tech></Tech>
       <Skills></Skills>
+      <Contact></Contact>
       <Footer></Footer>
     </div>
     </>
